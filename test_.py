@@ -14,6 +14,9 @@ def tb():
     yield tb
 
     
+def test_pass(tb):
+    pass
+    
 # def test_step_1(tb):
   
 #   try:

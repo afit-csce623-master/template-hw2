@@ -16,7 +16,7 @@ Grade:
 | | |
 |-|-|
 | __Assignment Name__ | HW2 |
-| __Due Date__        | 2359, Tuesday, Apr 20 |
+| __Due Date__        | 2359, Tuesday, Apr 27 |
 | __Points__          | 2 |
 | __Grading Method__  | Effort |
 
